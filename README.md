@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Diego
 [instagram]: https://www.instagram.com/dav.tru
-[linkedin]: https://linkedin.com/in/DiegoVerdooren
+[linkedin]: https://www.linkedin.com/in/diego-verdooren-5b2314276/
